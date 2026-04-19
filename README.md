@@ -28,11 +28,7 @@ GET /sensors/{id}
 GET /sensors/{id}/readings
 POST /sensors/{id}/readings
 
-# **4. Sample cURL (MANDATORY)**
-
-They REQUIRE this.
-
-Add at least 5:
+# **4. Sample CURL (MANDATORY)**
 
 ## 1. GET all rooms
 
